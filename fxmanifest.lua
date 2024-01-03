@@ -7,8 +7,7 @@ version '1.0.1'
 shared_scripts {
     '@qb-core/shared/locale.lua',
     'locales/en.lua',
-    'config.lua',
-    'main.lua',
+    'config.lua'
 }
 
 ui_page('html/index.html')
