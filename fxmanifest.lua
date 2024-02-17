@@ -24,10 +24,7 @@ client_scripts {
 data_file 'FIVEM_LOVES_YOU_4B38E96CC036038F' 'events.meta'
 
 files {
-    'events.meta',
-    'html/index.html',
-    'html/app.js',
-    'html/style.css',
+    'events.meta'
 }
 
 lua54 'yes'
