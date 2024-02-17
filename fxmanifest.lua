@@ -24,7 +24,22 @@ client_scripts {
 data_file 'FIVEM_LOVES_YOU_4B38E96CC036038F' 'events.meta'
 
 files {
-    'events.meta'
+    'events.meta',
+    'minigames.html',
+    'minigames.js',
+    'minigames/option_1.png',
+    'minigames/option_2.png',
+    'minigames/option_3.png',
+    'minigames/dice_1.png',
+    'minigames/dice_2.png',
+    'minigames/dice_3.png',
+    'minigames/dice_4.png',
+    'minigames/dice_5.png',
+    'minigames/dice_6.png',
+    'minigames/coinflip_1.png',
+    'minigames/coinflip_2.png',
+    'minigames/shoot_1.png',
+    'minigames/shoot_2.png'
 }
 
 lua54 'yes'
