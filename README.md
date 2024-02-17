@@ -7,5 +7,5 @@ If your using ps-hud you will need to change the export in the client lua from q
 # Update Features
 1.0.1
 - Added Dice and Rock Paper Scissors ( credits to BarBoNN )[(https://github.com/BarBaroNN/bb-dices)]
-- Added Odds and Events ( Command: /shoot )
+- Added Odds and Evens ( Command: /shoot )
 - Added Coinflip
